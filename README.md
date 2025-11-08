@@ -1,6 +1,7 @@
 # JDMGarage - Sistem Showroom Mobil JDM
 
-![JDMGarage Logo](public/images/logo.png)
+<img width="486" height="247" alt="image" src="https://github.com/user-attachments/assets/5e64f327-e100-4868-bb96-5af9d8552433" />
+
 
 ## 📝 Deskripsi
 
