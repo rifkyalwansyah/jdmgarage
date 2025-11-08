@@ -88,13 +88,14 @@ http://localhost:8000
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage](screenshots/homepage.png)
+<img width="1920" height="926" alt="image" src="https://github.com/user-attachments/assets/5de948d1-6dad-4c5c-bd63-28f1fe8630fc" />
+
 
 ### Form Tambah Mobil
-![Form](screenshots/form.png)
+<img width="1920" height="923" alt="image" src="https://github.com/user-attachments/assets/38ae13d8-0efd-42d7-865f-cbf184fe7209" />
 
 ### Detail Mobil
-![Detail](screenshots/detail.png)
+<img width="1920" height="925" alt="image" src="https://github.com/user-attachments/assets/cf09c973-5189-47bd-a444-380b0de89ca8" />
 
 ## 🗂️ Struktur Project
 ```
@@ -132,8 +133,8 @@ MIT License
 ## 👨‍💻 Author
 
 **[Nama Anda]**
-- GitHub: [@username-anda](https://github.com/username-anda)
-- Email: email@anda.com
+- GitHub: [rifkyalwansyah](https://github.com/rifkyalwansyah)
+- Email: rifkyalwansyah12@gmail.com
 
 ## 🙏 Acknowledgments
 
